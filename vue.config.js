@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: '/nidhipai/',
+    publicPath: '/',
     pages: {
         index: {
             entry: 'src/main.js',
